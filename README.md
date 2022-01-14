@@ -1,6 +1,6 @@
 ### Hi there, I’m Lucian 👋
 
-## I'm an exicteted student who's tring to make a carrer out of his passion. 
+## I'm an student who's trying to make a carrer out of his passion. 
 - 👀 I’m interested in learning as much as I can. 🤣
 - 🌱 I’m currently working on a Computer Science degree. 🎓
 
