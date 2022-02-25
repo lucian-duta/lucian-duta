@@ -221,5 +221,3 @@ of his passion - 🔭 I’m currently working on **a Computer Science degree. �
 
 <br />
 
-[instagram]: https://www.instagram.com/luci_mihai/ [linkedin]:
-https://www.linkedin.com/in/lucian-duta/
