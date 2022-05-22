@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lucian
-## I'm an student who's trying to make a career outof his passion 
+## I'm an student who's trying to make a career out of his passion 
 - 🔭 I’m currently working on **a Computer Science degree. 🎓** 
 - 🌱 I’m currently learning **as much as I can. 🤣**
 
