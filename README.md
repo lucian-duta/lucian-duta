@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Lucian
 ## I'm a PhD student trying to reseach the implementation of blockchain technology in the insurace sector. 
 - 🔭 I’m currently working on **a PhD in Computer Science. 👨‍⚕️** 
-- 🌱 I’m currently learning ** everything. **
+- 🌱 I’m currently learning **everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
