@@ -1,7 +1,17 @@
-### Hi there 👋, I'm Lucian
-## I'm a PhD student trying to research the implementation of blockchain technology in the insurance sector. 
-- 🔭 I’m currently working on **a PhD in Computer Science. 👨‍⚕️** 
-- 🌱 I’m currently learning **everything.**
+### Hello, I'm Lucian Duta! 👋
+#### Pursuing a PhD in Computer Science at the University of East London
+
+🔍 My research is focused on integrating blockchain technology within the insurance sector. I believe in the transformative potential of decentralized systems to revolutionize traditional industries.
+
+📚 **Current Endeavors:**
+- 🎓 Delving deep into my PhD research on blockchain's applications in insurance.
+- 🌐 Expanding my understanding of Web3 technologies and their wider implications.
+
+🔭 **Ongoing Learning:**
+- I am a firm believer in lifelong learning and am always eager to explore new domains, techniques, and perspectives in the vast realm of Computer Science.
+
+🤝 Open to collaborations and discussions related to blockchain, FinTech, and decentralization. Let's connect and push boundaries together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
